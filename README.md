@@ -14,7 +14,7 @@ Welcome to the Intro to Self-Driving Cars Nanodegree program! In this section yo
 Bayesian Thinking
 Learn the framework that underlies a self-driving car’s understanding of itself and the world around it, and to see the world the way a self-driving car does.
 
-Project 1: [Joy Ride](/tree/master/Project%200%20-%20Joy%20Ride%20-%20Parallel%20Park)  
+Project 1: [Joy Ride](/Project%200%20-%20Joy%20Ride%20-%20Parallel%20Park)  
 
 ## PART 3
 Working with Matrices
