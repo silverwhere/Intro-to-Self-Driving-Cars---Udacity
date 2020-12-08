@@ -23,28 +23,28 @@ Project 1: [2D Histogram Filter](/Project%201%20-%202D%20Histrogram%20Filter)
 Working with Matrices
 This course will focus on two tools which are vital to self-driving car engineers: object oriented programming and linear algebra.
 
-Project 2: [Implement a Matrix Class / Kalman Filters](/Project%202%20-%20Implement%20a%20Matrix-Class%20-%20Kalman-Filters)
+Project 2: [Implement a Matrix Class / Kalman Filters](/Project%202%20-%20Implement%20a%20Matrix-Class%20-%20Kalman-Filters)  
 Estimated time: 35 days
 
 ## PART 4
 C++ Basics
 This course is the first step in a rewarding journey towards C++ expertise. The goal is translation: get a program written in Python, and translate it into C++.
 
-Project 3: [Translate Python to C++](Project%203%20-%20Translate%20Python%20to%20C%20%2B%2B)
+Project 3: [Translate Python to C++](Project%203%20-%20Translate%20Python%20to%20C%20%2B%2B)  
 Estimated time: 7 days
 
 ## PART 5
 Performance Programming in C++
 Explore how to write good code that runs correctly. We’ll focus primarily on low level features of C++, but we’ll discuss other best practices as well.
 
-Project 4: [Optimize 2D Histogram Filter - Sense and Move Localizer](/Project%204%20-%20Optimize%20a%202D%20Histogram-Filter%20-%20Sense%20and%20Move%20Localizer)
+Project 4: [Optimize 2D Histogram Filter - Sense and Move Localizer](/Project%204%20-%20Optimize%20a%202D%20Histogram-Filter%20-%20Sense%20and%20Move%20Localizer)  
 Estimated time: 10 hours
 
 ## PART 6
 Navigating Data Structures
 Algorithmic thinking is a skill you’ll refine throughout your career. In this course you’ll focus on frequently used data structures and algorithms.
 
-Project 5: [Implement a Route Planner A-Star Search](/Project%205%20-%20Implement%20Route%20Planner%20A-Star%20Search)
+Project 5: [Implement a Route Planner A-Star Search](/Project%205%20-%20Implement%20Route%20Planner%20A-Star%20Search)  
 Estimated time: 28 days
 
 ## PART 7
@@ -63,5 +63,5 @@ Estimated time: 8 hours 30 minutes
 Computer Vision and Machine Learning
 In this course you’ll learn how a computer sees an image, and how we can use machine learning to teach a computer to identify images programmatically.
 
-Project 7: [Traffic Light Classifier](\Project%207%20-%20Traffic%20Light%20Classifier)
+Project 7: [Traffic Light Classifier](\Project%207%20-%20Traffic%20Light%20Classifier)  
 Estimated time: 28 days
