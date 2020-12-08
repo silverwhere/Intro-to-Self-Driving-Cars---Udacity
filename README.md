@@ -5,7 +5,9 @@
 # Self-Driving-Car-Engineer-Nanodegree-Udacity
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](https://www.udacity.com/course/intro-to-self-driving-cars--nd113)  
   
-Intro to Self Driving Cars Nanodegree Offered By Udacity
+Intro to Self Driving Cars Nanodegree Offered By Udacity  
+
+![Figure11](https://github.com/silverwhere/Self-Driving-Car-Nanodegree---Udacity/blob/main/Project%201%20-%20Finding%20Lane%20Lines/test_pipeline_images/solidWhiteCurve.jpg)
 
 ## PART 1
 Orientation
